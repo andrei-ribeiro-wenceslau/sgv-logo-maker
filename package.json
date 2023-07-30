@@ -1,0 +1,32 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+github.com/andrei-ribeiro-wenceslau/sgv-logo-maker.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/andrei-ribeiro-wenceslau/sgv-logo-maker/issues"
+    },
+    "homepage": "https://github.com/andrei-ribeiro-wenceslau/sgv-logo-maker#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "is-css3-color": "^1.0.0"
+    },
+    "devDependencies": {
+      "jest": "^29.4.2"
+    }
+  }
