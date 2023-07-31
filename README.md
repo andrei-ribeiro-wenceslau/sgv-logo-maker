@@ -16,3 +16,17 @@ The application enables users to enter inputs into a inquirer prompt in order to
 ## Walkthrough Video
 
 [Click here to watch](https://drive.google.com/file/d/1ID7B2UFPjv8DBqZspaaLlEEzkecK9YpI/view)
+
+## Screenshots
+
+Figure 1. Command line application
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+Figure 2. Jest Testing "npm test"
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+Figure 3. Generated "logo.svg" file
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
