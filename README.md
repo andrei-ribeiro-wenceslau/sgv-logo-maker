@@ -12,3 +12,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 1. Through sequential order within the command line interface - the user will be presented with npm inquirer questions - the user will provide a response to each question and proceed.
 1. Once completed a SVG file named "logo.svg" will be created.
 1. At your discretion, you may rename the "logo.svg" file to the file name of your choice.
+
+## Walkthrough Video
+
+[Click here to watch](https://drive.google.com/file/d/1ID7B2UFPjv8DBqZspaaLlEEzkecK9YpI/view)
