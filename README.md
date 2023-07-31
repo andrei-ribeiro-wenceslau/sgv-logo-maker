@@ -1,4 +1,4 @@
-# sgv-logo-maker
+# SVG Logo Maker
 
 ## Description
 
