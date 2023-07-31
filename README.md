@@ -19,14 +19,14 @@ The application enables users to enter inputs into a inquirer prompt in order to
 
 ## Screenshots
 
-Figure 1. Command line application
+###Figure 1. Command line application
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![CLI APP](https://github.com/andrei-ribeiro-wenceslau/svg-logo-maker/blob/main/images/cli-app.png)
 
-Figure 2. Jest Testing "npm test"
+###Figure 2. Jest Testing "npm test"
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Npm Test](https://github.com/andrei-ribeiro-wenceslau/svg-logo-maker/blob/main/images/npm-test.png)
 
-Figure 3. Generated "logo.svg" file
+###Figure 3. Generated "logo.svg" file
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Logo](https://github.com/andrei-ribeiro-wenceslau/svg-logo-maker/blob/main/images/logo.png)
